@@ -1,0 +1,28 @@
+If base = 16 px
+
+1 rem = 16 px
+
+
+
+
+<div class="login-box">
+        <div class="clicklogo">
+            <!-- Facebook-->	
+                            <label id="c1"><i class="fab fa-facebook-f"></i></label>
+                            <map name="facebook">
+                              <area shape="rect" coords="0,0,280,250" alt="Computer" href="https://www.facebook.com/campaign/landing.php?campaign_id=1653993517&extra_1=s%7Cc%7C318504237977%7Ce%7Cfacebook%20login%20page%7C&placement=&creative=318504237977&keyword=facebook%20login%20page&partner_id=googlesem&extra_2=campaignid%3D1653993517%26adgroupid%3D63066388443%26matchtype%3De%26network%3Dg%26source%3Dnotmobile%26search_or_content%3Ds%26device%3Dc%26devicemodel%3D%26adposition%3D%26target%3D%26targetid%3Dkwd-323872318794%26loc_physical_ms%3D9040235%26loc_interest_ms%3D%26feeditemid%3D%26param1%3D%26param2%3D&gclid=CjwKCAjw_-D3BRBIEiwAjVMy7ArIv72DYZN0c4i_j5-G4jNgqIndkAPqHKsdvHiKUw9qdvOiaqHLmRoC8PMQAvD_BwE">
+                            </map>
+
+            <!--instagram -->
+                            <label id="c2"><i class="fab fa-instagram"></i></label>
+                            <map name="instagram">
+                              <area shape="rect" coords="0,0,280,250" alt="Computer" href="https://www.instagram.com/accounts/login/?hl=en">
+                            </map>
+
+            <!-- twitter -->
+                            <label id="c3"><i class="fab fa-twitter"></i></label>
+                            <map name="twitter">
+                            <area shape="rect" coords="0,0,280,250" alt="Computer" href="https://twitter.com/login?lang=en-gb">
+                            </map>
+                </div>
+                </div>
